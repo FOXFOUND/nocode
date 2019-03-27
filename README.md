@@ -51,5 +51,4 @@ I know right?
 ## Contributing
 
 You don't.
-
-tangbranch master
+master
